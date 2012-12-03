@@ -1,6 +1,6 @@
 GEGImageClassifier
 ==================
 
-Visual classification of galaxies using live SDSS images
+A graphical tool for visually classifying SDSS galaxies.
 
 See https://github.com/hainest/GEGImageClassifier/wiki for details.
